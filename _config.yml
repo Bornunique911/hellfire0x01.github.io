@@ -16,28 +16,28 @@ description: >-                        # used by seo meta and the atom feed
   Realm of Knowledge
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://ColdFusionX.github.io'
+url: 'https://hellfire0x01.github.io/'
 
-author: Mayank Deshmukh               # change to your full name
+author: Akshat Gupta               # change to your full name
 
 avatar: /assets/img/sample/profile.jpg   # support internet resources
 
 github:
-  username: ColdFusionX             # change to your github username
+  username: Hellfire0x01             # change to your github username
 
 twitter:
-  username: ColdFusionX_            # change to your twitter username
+  username: Hellfire0x01            # change to your twitter username
 
 social:
-  name: Mayank Deshmukh                  # it will shows as the copyright owner in Footer
-  email: coldfusionx@outlook.com             # change to your email address
+  name: Akshat Gupta                  # it will shows as the copyright owner in Footer
+  email: hellfire0x01@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/ColdFusionX_      # change to your twitter homepage
-    - https://github.com/ColdFusionX       # change to your github homepage
+    - https://twitter.com/Hellfire0x01      # change to your twitter homepage
+    - https://github.com/Hellfire0x01       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/akshat-gupta-2173b5193
 
 google_site_verification: CtBtIysuQ8b6k36FI7jqU-o34DRoA_sye50a-RNtPPY # change to your verification string
 
