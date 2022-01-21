@@ -27,4 +27,4 @@
   name: "About Me"
   icon: "fas fa-id-card"
   path: tabs
-  url: aboutme
+  url: about
