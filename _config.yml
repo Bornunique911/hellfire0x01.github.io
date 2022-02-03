@@ -23,21 +23,21 @@ author: Akshat Gupta               # change to your full name
 avatar: /assets/img/sample/profile.jpg   # support internet resources
 
 github:
-  username: Hellfire0x01             # change to your github username
+  #username:              # change to your github username
 
 twitter:
-  username: Hellfire0x01            # change to your twitter username
+  #username:             # change to your twitter username
 
 social:
   name: Akshat Gupta                  # it will shows as the copyright owner in Footer
-  email: hellfire0x01@gmail.com             # change to your email address
+  email:              # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/Hellfire0x01      # change to your twitter homepage
-    - https://github.com/Hellfire0x01       # change to your github homepage
+    -       # change to your twitter homepage
+    -        # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/akshat-gupta-2173b5193
+    - 
 
 google_site_verification: CtBtIysuQ8b6k36FI7jqU-o34DRoA_sye50a-RNtPPY # change to your verification string
 
