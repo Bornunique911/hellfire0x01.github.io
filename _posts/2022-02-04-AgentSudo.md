@@ -160,7 +160,7 @@ we got the password `*****`.
 Now, using built-in tool **7z**, we can extract the contents of zip file,
 
 ```bash
-7z 8702.zip
+7z x 8702.zip
 ```
 
 ![7z](../../assets/img/posts/AgentSudo/7z.png)
