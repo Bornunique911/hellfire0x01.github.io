@@ -28,6 +28,7 @@ rustscan -a $IP
 ```
 
 ![rustscan](../../assets/img/posts/Anonforce/rustscan.png)
+
 we get 2 open port. Lets scan this using nmap,
 
 ```bash
