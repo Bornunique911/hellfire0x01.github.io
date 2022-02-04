@@ -89,7 +89,7 @@ git clone https://github.com/heltonWernik/OpenLuck.git
 cd Openluck
 sudo apt-get install libssl-dev
 compiling exploit,
-gcc -o OpenFuck OpenKuck.c -lcrypto
+gcc -o OpenFuck OpenFuck.c -lcrypto
 ```
 
 let's see how this exploit works,
