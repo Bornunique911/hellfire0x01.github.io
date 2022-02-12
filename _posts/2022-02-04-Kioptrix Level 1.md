@@ -2,7 +2,7 @@
 layout: post
 title: "VulnHub - Kioptrix Level 1"
 date: 2022-02-04
-categories: [Vulnhub, Linux]
+categories: [Vulnhub, Easy]
 tags: [boot2root]
 image: ../../assets/img/posts/Kioptrix Level 1/kioptrix.png 
 
@@ -15,7 +15,6 @@ This Kioptrix VM Image are easy challenges. The object of the game is to acquire
 |**Box**|Kioptrix Level 1|
 |:---:|:---:|
 |**OS**|Linux|
-|**Difficulty**|Easy|
 |**Box Link**| https://www.vulnhub.com/entry/kioptrix-level-1-1,22/ |
 |**Creator**|[Kioptrix](https://www.vulnhub.com/author/kioptrix,8/)|
 
