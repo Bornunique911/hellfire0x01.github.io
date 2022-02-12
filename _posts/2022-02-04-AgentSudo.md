@@ -2,7 +2,7 @@
 layout: post
 title: "THM - Agent Sudo"
 date: 2022-02-04
-categories: [Tryhackme, Linux]
+categories: [Tryhackme, Easy]
 tags: [enumerate, exploit, brute-force, hash cracking]
 image: ../../assets/img/posts/AgentSudo/agentsudo.png 
 
@@ -15,7 +15,6 @@ You found a secret server located under the deep sea. Your task is to hack insid
 |**Room**|Agent Sudo|
 |:---:|:---:|
 |**OS**|Linux|
-|**Difficulty**|Easy|
 |**Room Link**| https://tryhackme.com/room/agentsudoctf |
 |**Creator**|[DesKel](https://tryhackme.com/p/DesKel)|
 
