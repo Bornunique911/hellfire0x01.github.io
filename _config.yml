@@ -13,7 +13,7 @@ title: Hellfire0x01                          # the main title
 tagline: Noob | eJPT | CTF Player # it will display as the sub-title
           
 description: >-                        # used by seo meta and the atom feed
-  Realm of Knowledge
+  Home of CTF writeups! 
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://hellfire0x01.github.io'
