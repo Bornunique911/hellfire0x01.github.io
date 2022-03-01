@@ -2,7 +2,7 @@
 layout: post
 title: "THM - Anonforce"
 date: 2022-02-04
-categories: [Tryhackme, Linux]
+categories: [Tryhackme, Easy]
 tags: [security]
 image: ../../assets/img/posts/Anonforce/anonforce.png 
 
@@ -12,11 +12,10 @@ image: ../../assets/img/posts/Anonforce/anonforce.png
 
 You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth. 
 
-|**Room**|Agent Sudo|
+|**Room**|[Anonforce](https://tryhackme.com/room/bsidesgtanonforce)|
 |:---:|:---:|
 |**OS**|Linux|
 |**Difficulty**|Easy|
-|**Room Link**| https://tryhackme.com/room/bsidesgtanonforce |
 |**Creator**|[stuxnet](https://tryhackme.com/p/stuxnet)|
 
 ---

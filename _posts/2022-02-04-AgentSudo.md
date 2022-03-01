@@ -12,10 +12,10 @@ image: ../../assets/img/posts/AgentSudo/agentsudo.png
 
 You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth. 
 
-|**Room**|Agent Sudo|
+|**Room**|[Agent Sudo](https://tryhackme.com/room/agentsudoctf)|
 |:---:|:---:|
 |**OS**|Linux|
-|**Room Link**| https://tryhackme.com/room/agentsudoctf |
+|**Difficulty**|Easy|
 |**Creator**|[DesKel](https://tryhackme.com/p/DesKel)|
 
 ---

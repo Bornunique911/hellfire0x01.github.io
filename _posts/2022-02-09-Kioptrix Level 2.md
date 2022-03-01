@@ -2,7 +2,7 @@
 layout: post
 title: "VulnHub - Kioptrix Level 2"
 date: 2022-02-09
-categories: [VulnHub, Linux]
+categories: [VulnHub]
 tags: [boot2root]
 image: ../../assets/img/posts/Kioptrix Level 2/Kioptrix2.png
 
@@ -12,11 +12,10 @@ image: ../../assets/img/posts/Kioptrix Level 2/Kioptrix2.png
 
 This Kioptrix VM Image are easy challenges. The object of the game is to acquire root access via any means possible (except actually hacking the VM server or player). The purpose of these games are to learn the basic tools and techniques in vulnerability assessment and exploitation. There are more ways then one to successfully complete the challenges. 
 
-|**Box**|Kioptrix Level 2|
+|**Box**|[Kioptrix Level 2](https://www.vulnhub.com/entry/kioptrix-level-11-2,23/)|
 |:---:|:---:|
 |**OS**|Linux|
 |**Difficulty**|Easy|
-|**Box Link**| https://www.vulnhub.com/entry/kioptrix-level-11-2,23/ |
 |**Creator**|[Kioptrix](https://www.vulnhub.com/author/kioptrix,8/)|
 
 ---
