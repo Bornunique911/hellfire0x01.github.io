@@ -15,6 +15,7 @@ This Kioptrix VM Image are easy challenges. The object of the game is to acquire
 |**Box**|[Kioptrix Level 1](https://www.vulnhub.com/entry/kioptrix-level-1-1,22/)|
 |:---:|:---:|
 |**OS**|Linux|
+|**Difficulty**|Easy|
 |**Creator**|[Kioptrix](https://www.vulnhub.com/author/kioptrix,8/)|
 
 ---

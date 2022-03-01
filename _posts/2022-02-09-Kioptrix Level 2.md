@@ -5,7 +5,6 @@ date: 2022-02-09
 categories: [VulnHub]
 tags: [boot2root]
 image: ../../assets/img/posts/Kioptrix Level 2/Kioptrix2.png
-
 ---
 
 ## Description
