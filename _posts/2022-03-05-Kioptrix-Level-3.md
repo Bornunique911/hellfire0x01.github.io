@@ -4,7 +4,7 @@ title: "VulnHub - Kioptrix Level 3"
 date: 2022-03-05
 categories: [VulnHub]
 tags: [boot2root]
-image: ![image](https://user-images.githubusercontent.com/67465230/156873017-1bf4577e-3465-4adf-b43b-6a9f53a93727.png)
+image: ../../assets/img/posts/Kioptrix-level-3.png
 
 ---
 
