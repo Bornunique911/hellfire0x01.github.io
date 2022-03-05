@@ -2,7 +2,7 @@
 layout: post
 title: "Kioptrix Level 1"
 date: 2022-02-04
-categories: [VulnHub, Easy-Vulnhub]
+categories: [VulnHub, Easy-VulnHub]
 tags: [boot2root]
 image: ../../assets/img/posts/Kioptrix Level 1/kioptrix.png 
 
