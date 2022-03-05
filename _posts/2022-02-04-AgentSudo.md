@@ -2,7 +2,7 @@
 layout: post
 title: "Agent Sudo"
 date: 2022-02-04
-categories: [Tryhackme, Easy]
+categories: [Tryhackme, Easy-THM]
 tags: [enumerate, exploit, brute-force, hash cracking]
 image: ../../assets/img/posts/AgentSudo/agentsudo.png 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Anonforce"
 date: 2022-02-04
-categories: [Tryhackme, Easy]
+categories: [Tryhackme, Easy-THM]
 tags: [security]
 image: ../../assets/img/posts/Anonforce/anonforce.png 
 
