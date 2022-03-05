@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VulnHub - Kioptrix Level 1"
+title: "Kioptrix Level 1"
 date: 2022-02-04
 categories: [VulnHub]
 tags: [boot2root]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "THM - Agent Sudo"
+title: "Agent Sudo"
 date: 2022-02-04
 categories: [Tryhackme, Easy]
 tags: [enumerate, exploit, brute-force, hash cracking]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "THM - Anonforce"
+title: "Anonforce"
 date: 2022-02-04
 categories: [Tryhackme, Easy]
 tags: [security]
