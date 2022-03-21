@@ -4,7 +4,7 @@ title: "Bounty Hacker"
 date: 2022-03-21
 categories: [Tryhackme, Easy-THM]
 tags: [Linux, tar, privesc, ftp, brute-force, security]
-image: ../../assets/img/posts/AgentSudo/BountyHacker.png 
+image: ../../assets/img/posts/BountyHacker.png 
 
 ---
 
