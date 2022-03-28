@@ -135,9 +135,9 @@ john sha_256 --wordlist=easypeasy.txt --format=GOST
 
 we got the password.
 
-Navigating to http://10.10.140.17:65524/n0th1ng3ls3m4tt3r/binarycodepixabay.jpg,
+Navigating to http://10.10.140.17:65524/*****************/binarycodepixabay.jpg,
 
-![image](https://user-images.githubusercontent.com/67465230/160327297-9b25aacc-5133-4da1-a534-cb5c3ef5245f.png)
+![image](https://user-images.githubusercontent.com/67465230/160401471-877913ec-2d39-4286-99e2-4860c4034df2.png)
 
 we found an image which is binary numbers are shown.
 
