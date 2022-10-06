@@ -10,7 +10,7 @@ image: ../../assets/img/posts/Anonymous.png
 
 ## Description
 
-Penetration Testing Challenge.
+Not the hacking group.
 
 |**Room**|[Internal](https://tryhackme.com/room/anonymous)|
 |:---:|:---:|

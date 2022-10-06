@@ -10,7 +10,7 @@ image: ../../assets/img/posts/GoldenEye.png
 
 ## Description
 
-Penetration Testing Challenge.
+Bond, James Bond. A guided CTF.
 
 |**Room**|[GoldenEye](https://tryhackme.com/room/goldeneye)|
 |:---:|:---:|

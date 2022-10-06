@@ -10,7 +10,7 @@ image: ../../assets/img/posts/ConvertMyVideo.png
 
 ## Description
 
-Penetration Testing Challenge.
+My Script to convert videos to MP3 is super secure.
 
 |**Room**|[Internal](https://tryhackme.com/room/convertmyvideo)|
 |:---:|:---:|
