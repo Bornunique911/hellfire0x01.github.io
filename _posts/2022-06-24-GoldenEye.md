@@ -73,10 +73,10 @@ I tried connecting to the port 55007 and provided the username boris and passwor
 ```bash
 nc 10.10.110.114 55007
 USER boris
-PASS InvincibleHack3r
+PASS ****************
 ```
 
-![image](https://user-images.githubusercontent.com/67465230/175462383-da33ca8c-23f9-4cb6-9f47-100ae1e1c8d6.png)
+![image](https://user-images.githubusercontent.com/67465230/194601934-3cdf92fc-1cab-4766-8965-40e6e2643336.png)
 
 Shoot, access denied. I guess I have to contact agent hydra to brute-force Boris’s login credential,
 
@@ -91,10 +91,10 @@ We got the password for the boris user. Let's login using these credentials,
 ```bash
 nc 10.10.147.243 55007
 USER boris
-PASS secret1!
+PASS ********
 ```
 
-![image](https://user-images.githubusercontent.com/67465230/175462600-b8bd5320-8712-4ff0-a3ef-14ad331cd819.png)
+![image](https://user-images.githubusercontent.com/67465230/194601995-d889fbd7-2154-4ade-86bd-adf9aef294d9.png)
 
 Yay! We got logged into the pop3 service as boris user. Let's list all the messages in the service and we can see that there are 3 emails. So let's retrieve them individually using `RETR` command,
 
@@ -118,15 +118,15 @@ hydra -l natalya -P /usr/share/set/src/fasttrack/wordlist.txt 10.10.147.243 -s 5
 
 ![image](https://user-images.githubusercontent.com/67465230/175462617-6e4286ee-8490-48f7-a8a9-e99dc85b65ee.png)
 
-We got the brute forced credentials of natalya user, `natalya:bird`. Now, let's try to access the port 55007 and provide the credentials and we got access to email service as natalya user,
+We got the brute forced credentials of natalya user, `natalya:****`. Now, let's try to access the port 55007 and provide the credentials and we got access to email service as natalya user,
 
 ```bash
 nc 10.10.147.243 55007
 USER natalya
-PASS bird
+PASS ****
 ```
 
-![image](https://user-images.githubusercontent.com/67465230/175462631-82829f62-49d1-4c0e-836f-9943b5c4b3f5.png)
+![image](https://user-images.githubusercontent.com/67465230/194602053-a5841aae-68e0-4cf7-88ae-31f424c5f652.png)
 
 Let's list all the messages in the service and we can see that there are 2 emails. So let's retrieve them individually using `RETR` command,
 
@@ -139,7 +139,7 @@ RETR 2
 ![image](https://user-images.githubusercontent.com/67465230/175462650-ede04705-cbc4-4bfb-8671-e7fc21e44483.png)
 ![image](https://user-images.githubusercontent.com/67465230/175465264-31b76e81-d4dd-4ca5-b4dd-6da4ccf54580.png)
 
-after reading the emails, there are credentials for xenia user lying around, `xenia:RCP90rulez!` and there's a domain name **severnaya-station.com** that we need to add into `/etc/hosts` file.
+after reading the emails, there are credentials for xenia user lying around, `xenia:***********` and there's a domain name **severnaya-station.com** that we need to add into `/etc/hosts` file.
 
 Let's add the following domain name,
 
@@ -173,17 +173,17 @@ hydra -l doak -P /usr/share/set/src/fasttrack/wordlist.txt 10.10.147.243 -s 5500
 
 ![image](https://user-images.githubusercontent.com/67465230/175463033-45884145-4fb0-4b41-90a9-7a8a56f60aae.png)
 
-We got the credentials so now let's access the email service of dr. doak user, `doak:goat`
+We got the credentials so now let's access the email service of dr. doak user, `doak:****`
 
 ```bash
 nc 10.10.147.243 55007
 USER doak
-PASS goat
+PASS ****
 LIST
 RETR 1
 ```
 
-![image](https://user-images.githubusercontent.com/67465230/175463701-47ebc091-3001-40a0-862a-76bd26c9f9b1.png)
+![image](https://user-images.githubusercontent.com/67465230/194602131-857b1739-5727-4d21-b572-682186208b8e.png)
 we can see that email contain credentials of dr doak user. 
 
 Let's use these credentials to login into panel as dr_doak user,
@@ -221,7 +221,7 @@ we can see that image description is encoded as base64.
 After decoding this string, we got clear text password,
 
 ```bash
-echo "eFdpbnRlcjE5OTV4IQ==" | base64 -d
+echo "eF*****************=" | base64 -d
 ```
 
 ![image](https://user-images.githubusercontent.com/67465230/175463942-82d8e6d2-08d3-4d6e-b3ca-fa00a7d179eb.png)
