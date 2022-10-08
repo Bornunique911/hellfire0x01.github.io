@@ -4,7 +4,7 @@ title: "GoldenEye"
 date: 2022-06-24
 categories: [Tryhackme, Medium-THM]
 tags: [Hydra, nmap, email, enumeration]
-image: ../../assets/img/posts/GoldenEye.png 
+image: ../../assets/img/posts/goldeneye.png 
 
 ---
 

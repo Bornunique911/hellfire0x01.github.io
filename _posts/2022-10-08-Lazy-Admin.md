@@ -4,7 +4,7 @@ title: "Lazy Admin"
 date: 2022-10-08
 categories: [Tryhackme, Easy-THM]
 tags: [SweetRice, searchsploit, backup, hash, cracking, reverse-shell, burpsuite, perl]
-image: ../../assets/img/posts/lazy-admin.png 
+image: ../../assets/img/posts/lazyadmin.png 
 
 ---
 
