@@ -4,7 +4,7 @@ title: "Break Out The Cage"
 date: 2022-10-21
 categories: [Tryhackme, Easy-THM]
 tags: [ftp, base64, Vigenere-cipher, ffuf, pspy64, python, email]
-image: ../../assets/img/posts/breakoutthecage1.png 
+image: ../../assets/img/posts/breakoutthecage.png 
 
 ---
 
