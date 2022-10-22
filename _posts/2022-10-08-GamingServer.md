@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gaming Server"
+title: "GamingServer"
 date: 2022-10-08
 categories: [Tryhackme, Easy-THM]
 tags: [private-key, ssh2john, password-cracking, lxd]
@@ -12,7 +12,7 @@ image: ../../assets/img/posts/gamingserver.png
 
 An Easy Boot2Root box for beginners
 
-|**Room**|[Gaming Server](https://tryhackme.com/room/gamingserver)|
+|**Room**|[GamingServer](https://tryhackme.com/room/gamingserver)|
 |:---:|:---:|
 |**OS**|Linux|
 |**Difficulty**|Easy|
