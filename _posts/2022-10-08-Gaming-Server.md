@@ -10,7 +10,7 @@ image: ../../assets/img/posts/gamingserver.png
 
 ## Description
 
-Learn to hack into this machine. Understand how to use SQLMap, crack user passwords, reveal services using a reverse SSH tunnel, and escalate your privileges to root!
+An Easy Boot2Root box for beginners
 
 |**Room**|[Gaming Server](https://tryhackme.com/room/gamingserver)|
 |:---:|:---:|
