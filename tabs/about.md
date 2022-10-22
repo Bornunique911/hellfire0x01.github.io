@@ -8,4 +8,4 @@ title: Well hello! Nice to meet ya.
 # MIT License
 ---
 
-I am Akshat Gupta, pursuing Computer Science for my undergraduate degree. I have a keen and profound interest in Cyber Security and Hacking especially in Penetration Testing, Red Teaming and Network Security. I love reading articles and blogs, be it technical or non-technical. I am also getting my hands in Blue Team and Cloud Security, slowly but yes.
+I am Akshat Gupta a.k.a hellfire0x01. I am a noob trying my way to step into defensive security. I decided to become a hacker because in my dream, Courage The Cowardy Dog called me STUPID.
